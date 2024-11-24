@@ -1,0 +1,6 @@
+minikube start
+kubectl apply -f deployment.yaml
+kubectl get deployments | grep kiphi
+kubectl get pods | grep kiphi
+kubectl expose deployment kiphi --type=NodePort
+minikube service kiphi --url

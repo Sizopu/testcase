@@ -1,0 +1,22 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: kiphi
+  labels:
+    app: kiphi
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: kiphi
+  template:
+    metadata:
+      labels:
+        app: kiphi
+    spec:
+      containers:
+        - name: test-case
+          image: kiphi/test-case:latest
+          ports:
+            - containerPort: 32777
