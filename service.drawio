@@ -20,7 +20,7 @@
           <mxGeometry x="122" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLH-SA_f54EeBNrNCwSC-4" value="Kubernetes service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLH-SA_f54EeBNrNCwSC-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Deployment&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="337" y="510" width="105" height="30" as="geometry" />
@@ -71,6 +71,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="350" as="sourcePoint" />
             <mxPoint x="890" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLH-SA_f54EeBNrNCwSC-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MLH-SA_f54EeBNrNCwSC-4" target="MLH-SA_f54EeBNrNCwSC-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="790" as="sourcePoint" />
+            <mxPoint x="690" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
