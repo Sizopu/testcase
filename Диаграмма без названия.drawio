@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0 (Edition Yx GX)" version="25.0.3">
   <diagram name="Страница — 1" id="qHSGpiCcACziC4tfkUo0">
-    <mxGraphModel dx="1967" dy="1120" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="751" dy="1151" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,6 +197,63 @@
               <mxPoint x="268" y="653" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-3" value="Функции системы" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="104" y="1789" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-4" value="Основные" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1789" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-5" value="Анализ данных" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1789" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-6" value="Сравнение с прошлогодовыми данными" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1789" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-7" value="Обработка данных" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1732" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-8" value="Прогнозирование" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1846" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-9" value="Создание экземпляра карты" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1634" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-10" value="Инициализация ЦМР" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1577" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-11" value="Добавление слоев на карту" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1522" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-12" value="Получение данных связан. с сельск. хозяйством" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1467" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-13" value="Загрузка библиотек карт" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1409" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-14" value="Модуль отображения карт" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1522" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-15" value="Настройка системы" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1937" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-16" value="Мониторинг состояния системы" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1993" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-17" value="Резервное копирование данных" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2049" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-18" value="Управление системой" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342" y="1993" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-19" value="Отчеты" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2146" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-20" value="Интерфейс пользователя" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2203" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NYXWeP0uA46EGkdsU6bP-21" value="Вывод и визуализация данных" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342" y="2171" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
